@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'GamtanRoad Batang';
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/GamtanRoadBatang/GamtanRoadBatang-Thin.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GamtanRoadBatang/GamtanRoadBatang-Thin.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GamtanRoadBatang/GamtanRoadBatang-Thin.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GamtanRoadBatang/GamtanRoadBatang-Thin.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'GamtanRoad Batang';
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/GamtanRoadBatang/GamtanRoadBatang-Regular.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GamtanRoadBatang/GamtanRoadBatang-Regular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GamtanRoadBatang/GamtanRoadBatang-Regular.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GamtanRoadBatang/GamtanRoadBatang-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'GamtanRoad Batang';
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/GamtanRoadBatang/GamtanRoadBatang-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GamtanRoadBatang/GamtanRoadBatang-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GamtanRoadBatang/GamtanRoadBatang-Bold.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GamtanRoadBatang/GamtanRoadBatang-Bold.ttf') format('truetype');
+}
